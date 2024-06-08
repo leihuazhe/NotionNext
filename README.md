@@ -1,5 +1,19 @@
 # NotionNext
 
+## Personal Updated
+
+将命令更改,每次生成静态文档
+```
+next build
+```
+修改为
+```
+yarn export
+```
+
+
+---
+
 <p>
   <a aria-label="GitHub commit activity" href="https://github.com/tangly1024/NotionNext/commits/main" title="GitHub commit activity">
     <img src="https://img.shields.io/github/commit-activity/m/tangly1024/NotionNext?style=for-the-badge"/>
