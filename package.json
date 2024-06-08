@@ -8,9 +8,9 @@
     "url": "https://github.com/tangly1024/NotionNext.git"
   },
   "author": {
-    "name": "tangly",
-    "email": "mail@tangly1024.com",
-    "url": "http://tangly1024.com"
+    "name": "Hazel Lei",
+    "email": "leihuazhe@gmail.com",
+    "url": "http://www.317318.xyz"
   },
   "scripts": {
     "dev": "next dev",
